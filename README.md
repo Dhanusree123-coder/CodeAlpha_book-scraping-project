@@ -1,4 +1,4 @@
-# Movies Scraping Project (Task 1)
+# Book Scraping Project (Task 1)
 
 This project is part of a 3-task data analysis workflow:
 1. Web Scraping  
